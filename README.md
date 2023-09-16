@@ -84,7 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS for providing the cloud infrastructure and services necessary for this project.
 
 - The open-source community for their contributions to the AWS Python SDK (Boto3).
-
----
-
-Feel free to customize this README.md file to suit your project's specific details and requirements. Don't forget to include a license file (e.g., LICENSE) if needed.
